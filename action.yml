@@ -19,7 +19,7 @@ inputs:
     default: 'root'
   password: 
     description: 'Passwort to login'
-    required: true
+    required: false
     default: 'password'
   localPath: 
     description: 'Local file or directory'
